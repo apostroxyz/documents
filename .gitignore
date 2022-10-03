@@ -1,0 +1,12 @@
+node_modules
+.cache
+.vscode
+.project
+.DS_Store
+.next
+dist
+build
+yarn-error.log
+out
+/report*.json
+tsconfig.tsbuildinfo
